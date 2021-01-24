@@ -7,3 +7,4 @@ Strings of numbers (000-255) are outputted based on the greyscale values based o
 
 ![alt text](https://github.com/badalmer/Text-Based/blob/main/Mariner_4/example.png) 
 
+///////////////////////
